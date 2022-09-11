@@ -2,8 +2,8 @@ const projectsData = [
   {
     title: 'Photos',
     description: `Photos - lots of photos. For documentation, learning, and fun.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    imgSrc: '/static/images/photo-camera.svg',
+    href: 'https://photo.veloce.dk',
   },
 ]
 
